@@ -1,0 +1,1513 @@
+{
+  "user": {
+    "user": {
+      "username": "rio-rizky-rainey-ferbiansyah",
+      "name": "Rio Rizky Rainey Ferbiansyah",
+      "avatar":
+        "https://cdn.idntimes.com/content-images/avatar/rio-rizky-rainey-ferbiansyah_200x200.jpg",
+      "email": "rrzky@yahoo.com",
+      "token": "bV52VXGjfmeH2ZJ7yFp26KHvjjGFIztss00ckMk0mnIkEDxBknWodf3DYPc5",
+      "description": "Lorem ipsum dolor sit amet",
+      "following_count": 110,
+      "follower_count": 200,
+      "is_following": false,
+      "badges": [
+        {
+          "name": "Most Viral Article",
+          "image":
+            "https://cdn.idntimes.com/content-images/community/2017/05/home-page-f4f008a40ad9ab99a6e73ac31e7e9253_200x200.jpg"
+        },
+        {
+          "name": "First Post",
+          "image":
+            "https://cdn.idntimes.com/content-images/community/2017/05/home-page-f4f008a40ad9ab99a6e73ac31e7e9253_200x200.jpg"
+        },
+        {
+          "name": "20 Article Published",
+          "image":
+            "https://cdn.idntimes.com/content-images/community/2017/05/home-page-f4f008a40ad9ab99a6e73ac31e7e9253_200x200.jpg"
+        }
+      ]
+    },
+    "latest_article": [
+      {
+        "title":
+          "5 Intrik Seru yang Bikin Kamu Ngebet Nonton Film Thor: Ragnarok!",
+        "slug": "5-intrik-seru-film-thor-ragnarok-1",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20171009/thor-3-avengers-edcd347551c705efd1e056a8d80a95cd_850x350.jpg",
+          "placeholder_image_url":
+            "https://cdn.idntimes.com/content-images/post/20171009/thor-3-avengers-edcd347551c705efd1e056a8d80a95cd_200x200.jpg",
+          "width": 850,
+          "height": 350
+        },
+        "author": {
+          "name": "Triadanti",
+          "username": "danti",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/danti_100x100.jpg?v=9bf7a9c021d386a6c5035e5bafaaf381"
+        },
+        "category": {
+          "name": "Hype",
+          "slug": "hype"
+        },
+        "sub_category": {
+          "name": "Entertainment",
+          "slug": "entertainment"
+        }
+      },
+      {
+        "title": "Langsung dari Ahlinya, Ini Tips Jadi YouTuber Gamer Keren!",
+        "slug":
+          "ushi-gaming-tepe46-bagi-tips-jadi-youtuber-gamer-di-ytff-surabaya",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20171009/img-0207-8568e9d7ba369ecf16d7a60961892ceb_850x350.JPG",
+          "placeholder_image_url":
+            "https://cdn.idntimes.com/content-images/post/20171009/img-0207-8568e9d7ba369ecf16d7a60961892ceb_200x200.JPG",
+          "width": 850,
+          "height": 350
+        },
+        "author": {
+          "name": "Triadanti",
+          "username": "danti",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/danti_100x100.jpg?v=9bf7a9c021d386a6c5035e5bafaaf381"
+        },
+        "category": {
+          "name": "Tech",
+          "slug": "tech"
+        },
+        "sub_category": {
+          "name": "Games",
+          "slug": "Games"
+        }
+      },
+      {
+        "title":
+          "16 Idol KPop yang Berulang Tahun di Bulan Oktober! Sudah Siapin Kado?",
+        "slug": "idola-kpop-ultah-oktober",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20171006/21911362-128235271252897-50221708863130828gh8-n-3c44cdbb7a1e64fac0786fa719159eb7_850x350.jpg",
+          "placeholder_image_url":
+            "https://cdn.idntimes.com/content-images/post/20171006/21911362-128235271252897-50221708863130828gh8-n-3c44cdbb7a1e64fac0786fa719159eb7_200x200.jpg",
+          "width": 850,
+          "height": 350
+        },
+        "author": {
+          "name": "Triadanti",
+          "username": "danti",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/danti_100x100.jpg?v=9bf7a9c021d386a6c5035e5bafaaf381"
+        },
+        "category": {
+          "name": "Tech",
+          "slug": "tech"
+        },
+        "sub_category": {
+          "name": "Games",
+          "slug": "Games"
+        }
+      }
+    ]
+  },
+  "single": {
+    "title": "Polemik Nikah Siri dan Dampaknya Bagi Perempuan Indonesia",
+    "published_at": 1506917933703,
+    "author": {
+      "username": "rosafolia",
+      "name": "Rosa Folia",
+      "avatar":
+        "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e",
+      "join_date": 1506917933703
+    },
+    "body": [
+      {
+        "type": "title",
+        "style": "h1",
+        "content": "Polemik Nikah Siri dan Dampaknya Bagi Perempuan Indonesia"
+      },
+      {
+        "type": "excerpt",
+        "content":
+          "Jika menikah tujuannya untuk kebahagiaan, kenapa harus sembunyi-sembunyi?"
+      },
+      {
+        "type": "image",
+        "content":
+          "https://cdn.idntimes.com/content-images/post/20170924/people-2582816-960-720-a27b45a86b40c6536faee49208406f38_850x350.jpg",
+        "removable": "true",
+        "place_holder":
+          "https://cdn.idntimes.com/content-images/post/20170924/people-2582816-960-720-a27b45a86b40c6536faee49208406f38_200x133.jpg",
+        "width": 850,
+        "height": 350,
+        "order_number": 1
+      },
+      {
+        "type": "html",
+        "content":
+          "<p>Masalah nikah siri telah menjadi perdebatan panjang di Indonesia. Ketika pernikahan dianggap 'sah' di mata agama, nyatanya praktik ini merugikan perempuan. Karena mereka tak punya sertifikat nikah, para perempuan ini tak bisa mengklaim hak-hak pernikahan mereka, termasuk hak untuk memiliki sejumlah properti bersama. Tak menutup kemungkinan bahwa pernikahan siri juga memiliki dampak yang buruk terhadap anak-anak yang lahir dari hasil pernikahan siri.</p><p>Nikah siri sebenarnya tak ada di dalam istilah fikih. Siri dalam bahasa Arab berarti rahasia atau sembunyi-sembunyi. Tak seperti pernikahan normal pada umumnya, pernikahan siri tak akan dicatat di Kementrian Agama.</p><p>Dengan adanya perempuan-perempuan ini sebagai pusat perhatian, media kerap kali salah fokus dalam pemberitaan. Media selalu tampak 'lupa' untuk menyebutkan bahwa membuat pesta pernikahan atau walimah dalam Islam adalah sunah dan praktik nikah siri sangat-sangat tidak disarankan.</p>"
+      },
+      {
+        "type": "title",
+        "style": "h2",
+        "content":
+          "Baru-baru ini ditemukan sebuah situs yang secara terang-terangan akan membantu klien mereka untuk melakukan pernikahan siri dan melelang keperawanan."
+      },
+      {
+        "type": "image",
+        "content":
+          "https://cdn.idntimes.com/content-images/post/20170924/21687447-2037143546530477-571681515721853126-n-9d94d349072e8d5cf896927726481a68.jpg",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "type": "html",
+        "content":
+          "<p>Situs yang bernama nikahsirri.com -- meskipun pada akhirnya sudah diblokir pemerintah karena jelas-jelas melanggar UU ITE & Pornografi -- cukup membuat sejumlah netizen geram.</p><p>Program nyeleneh yang dibuat Partai Ponsel ini awalnya bertujuan untuk mengentaskan kemiskinan dengan cara melelang keperawanan dan/atau melakukan nikah siri bagi janda. Perempuan mana pun bisa mengikuti program ini, dan ya, program lelang keperjakaan juga ada. Mereka mengaku punya tim medis sendiri yang bisa siap untuk memeriksa 'keabsahan' perawan seorang perempuan dengan melakukan serangkaian tes medis, padahal tes keperawanan sendiri malah akan berpotensi menimbulkan sejumlah permasalahan pada organ intim perempuan.</p><p>Lantas bagaimana cara Partai Ponsel mengetes keperjakaan laki-laki? Mereka mengaku akan melakukan sumpah pocong pada setiap laki-laki yang mengaku perjaka. Masuk akal? Entahlah, semua yang ada dalam situs ini rasanya tidak masuk akal.</p>"
+      },
+      {
+        "type": "title",
+        "style": "h2",
+        "content":
+          "Terus terang saja program ini tak ada bedanya dengan prostitusi online terselubung yang dibalut sedemikian rupa dan mengatasnamakan agama serta ekonomi sebagai modus utamanya."
+      },
+      {
+        "type": "image",
+        "content":
+          "https://cdn.idntimes.com/content-images/post/20170924/capture-1-4d5401fe488c5c93510fee2363494360.PNG",
+        "width": 850,
+        "height": 458
+      },
+      {
+        "type": "html",
+        "content":
+          "<p>Apa pun alasannya, cara seperti ini tak pernah dibenarkan meski pun itu untuk mengentaskan kemiskinan. Perempuan bukanlah objek yang bisa diperjualbelikan keperawanannya. Keperawanan seorang perempuan biarlah menjadi miliknya seutuhnya tanpa harus ada campur tangan dari orang lain.</p><p>Banyak hal yang salah dan terasa menggelitik soal situs nikahsirri.com untuk dibahas lebih lanjut. Sebelum akhirnya diblokir, setiap halaman situs ini terasa seperti lelucon yang bahkan terlalu mengerikan jika benar adanya. Entah apa saja yang akan terjadi jika pemerintah tak cepat turun tangan dalam mengusut kasus ini. Mulai dari lelang perawan hingga sumpah pocong, berapa banyak masyarakat menengah ke bawah yang akan tertipu iming-iming ratusan juta jika menjadi salah satu mitra mereka dalam rangka perburuan perawan dan perjaka.</p><p>Sedikit miris memang, jika agama dan kapitalisme bertemu, apa pun bisa dijual begitu saja.</p>"
+      },
+      {
+        "type": "title",
+        "style": "h2",
+        "content":
+          "Pernikahan yang baik dan bahagia bisa menjadi salah satu fondasi yang kuat dalam menghadapi kerasnya kehidupan. Namun kini, rasanya pencarian suami yang ideal semakin sulit untuk perempuan yang selalu saja menjadi objek penindasan dan penghakiman."
+      },
+      {
+        "type": "image",
+        "content":
+          "https://cdn.idntimes.com/content-images/post/20170924/people-2562850-960-720-d306cc8fb53e824d3562124f4e7bc4d7.jpg",
+        "width": 850,
+        "height": 566
+      },
+      {
+        "type": "html",
+        "content":
+          "<p>Harus kita akui juga bahwa media ikut bertanggung jawab terhadap bagaimana pandangan masyarakat terhadap perempuan dan keperawanan mereka. Berapa banyak perempuan yang terjebak dan melakukan operasi keperawanan hanya demi sekadar memenuhi pandangan masyarakat terhadap mereka? Berapa banyak laki-laki yang seenaknya memutuskan hubungan dengan kekasihnya hanya karena sang perempuan terbukti tidak perawan? Harus berapa banyak lagi pernikahan dini yang dilakukan hanya demi menghalalkan perzinahan dan tanpa adanya persiapan?</p><p>Tak bisakah kita membiarkan para perempuan di luar sana memutuskan apa yang terbaik bagi diri mereka sendiri?</p><p>Memang, jika syarat menikah sudah dipenuhi, pernikahan itu akan menjadi sah dan halal. Tapi, apakah sesuatu akan 100% terhindar dari dosa jika itu sudah mendapat label halal? Belum tentu.</p><blockquote>Seharusnya pernikahan dibangun dengan cinta yang tulus dan hati yang lapang, tak hanya sekadar menuruti kemauan selangkangan.</blockquote>"
+      }
+    ]
+  },
+  "quiz": {
+    "title":
+      "Hanya Pecinta Kucing Sejati yang Bisa Temukan Kucing Tersembunyi di Gambar Ini!",
+    "excerpt": "Kamu pecinta kucing bukan?",
+    "description":
+      "Setiap orang pasti memiliki hewan yang sangat disukai. Ada beberapa orang penyuka anjing, kucing atau bahkan hewan langka. Jika bertemu hewan yang disukai di manapun, mereka akan menyayangi seperti hewan peliharaannya sendiri. Nah jika kamu pecinta kucing, coba kamu temukan kucing yang bersembunyi di gambar ini!",
+    "slug":
+      "hanya-pecinta-kucing-sejati-yang-bisa-temukan-kucing-tersembunyi-di-gambar-ini-quiz",
+    "type": "quiz",
+    "quiz_type": "trivia",
+    "published_at": 1486296000,
+    "cover": {
+      "image_url":
+        "https://cdn.idntimes.com/content-images/post/20170203/cover-44aede8bdb4e597b501ac1af2ae1c2b7_850x567.jpg",
+      "placeholder_image_url":
+        "https://cdn.idntimes.com/content-images/post/20170203/cover-44aede8bdb4e597b501ac1af2ae1c2b7_200x200.jpg",
+      "source": "reference.com",
+      "width": 850,
+      "height": 567
+    },
+    "author": {
+      "username": "rullybunga",
+      "name": "Rully Bunga",
+      "avatar":
+        "https://cdn.idntimes.com/content-images/avatar/rully-bunga.jpg",
+      "join_date": 1506917933703
+    },
+    "category": {
+      "name": "Hype",
+      "slug": "hype"
+    },
+    "sub_category": {
+      "name": "Fun Fact",
+      "slug": "fun-fact"
+    },
+    "quiz_detail": {
+      "type": "trivia",
+      "data": {
+        "total_questions": "8",
+        "total_choices": "3",
+        "questions": [
+          {
+            "question_type": "image",
+            "question_content":
+              "https://cdn.idntimes.com/content-images/post/20170203/q1-6139b099280b65ff8b5640f098af0311.jpg",
+            "question_title": "Di mana kucing berada?",
+            "choice_type": "text",
+            "choices": [
+              {
+                "content": "Di bagian atas",
+                "answer": 0
+              },
+              {
+                "content": "Di samping kiri",
+                "answer": 1
+              },
+              {
+                "content": "Di bagian bawah",
+                "answer": 0
+              }
+            ],
+            "result_type": "image",
+            "result_content":
+              "https://cdn.idntimes.com/content-images/post/20170203/a1-6c134979018b68341514abb6a06c3520.jpg",
+            "result_title": "Gak nyangka kan ada kucing di bagian kiri gambar?"
+          },
+          {
+            "question_type": "text",
+            "question_content":
+              "https://cdn.idntimes.com/content-images/post/20170203/q1-6139b099280b65ff8b5640f098af0311.jpg",
+            "question_title": "",
+            "choice_type": "image",
+            "choices": [
+              {
+                "content":
+                  "https://cdn.idntimes.com/content-images/post/20170203/a3-7be7b3ae6b9bb333d3f444b3351d8cf4.jpg",
+                "answer": 0
+              },
+              {
+                "content":
+                  "https://cdn.idntimes.com/content-images/post/20170203/a3-7be7b3ae6b9bb333d3f444b3351d8cf4.jpg",
+                "answer": 1
+              },
+              {
+                "content":
+                  "https://cdn.idntimes.com/content-images/post/20170203/a3-7be7b3ae6b9bb333d3f444b3351d8cf4.jpg",
+                "answer": 0
+              }
+            ],
+            "result_type": "text",
+            "result_content": "Ya opo. Kaget ga?",
+            "result_title": ""
+          }
+        ],
+        "final_result": [
+          {
+            "percent": "0",
+            "description":
+              "Ya wajar sih kalau kamu gak bisa menemukan kucing-kucing itu, abisnya kamu bukan pecinta kucing sih.",
+            "image":
+              "https://cdn.idntimes.com/content-images/post/20170203/s1-7e955f253ddd5c336cd70e74b00dcb40.jpg"
+          },
+          {
+            "percent": "25",
+            "description":
+              "Ngakunya sih suka kucing, tapi kok gak bisa menemukan?",
+            "image":
+              "https://cdn.idntimes.com/content-images/post/20170203/s2-7c1a16df35e9beb65db53548d4424602.jpg"
+          },
+          {
+            "percent": "50",
+            "description":
+              "Mungkin kalau kamu tadi tidak asal tabk dan memperhatikan dengan teliti pasti bisa menebaknya semua!",
+            "image":
+              "https://cdn.idntimes.com/content-images/post/20170203/s3-cbf3b4961654cfb23ace78de60224542.jpg"
+          },
+          {
+            "percent": "75",
+            "description":
+              "Kamu memang penggemar kucing, tapi kamu kurang memberikan perhatian kepada kucing-kucing yang terlantar.",
+            "image":
+              "https://cdn.idntimes.com/content-images/post/20170203/s4-a498e7493428b0ee2f60df9bb3eb682b.jpg"
+          },
+          {
+            "percent": "100",
+            "description": "Kamu memang pecinta kucing sejati!",
+            "image":
+              "https://cdn.idntimes.com/content-images/post/20170203/s5-f24f06195d35d47eae728cc1eb065701.jpg"
+          }
+        ]
+      }
+    }
+  },
+  "news": {
+    "headlines": [
+      {
+        "title":
+          "Gaji Pramugari di Maskapai Ini Diukur Berdasarkan Tingkat Kelangsingan",
+        "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+        "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/maskapai-penerbangan-murah-1505358269-86940-5384d860a3cb2673f07f607bcd8327ea_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "10 Potret Sakralnya Prosesi Siraman Kahiyang & Bobby",
+        "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+        "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20171107/alf-0527-a229588d385f1306d08ad690d6850939_850x350.JPG",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "10 Momen Kedekatan Raisa & Keponakan, Siap Jadi Ibu Nih?",
+        "slug": "kedekatan-raisa-dan-keponakan",
+        "excerpt": "Aura keibuannya sudah keluar lho",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/raisacover-40a00c64c04b126010bfbee11036199a_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "7 Orang Ini Pernah Alami Kegagalan dan Bangkit Jadi Sukses",
+        "slug": "lebih-dari-film-kisah-sukses-7-ini-benar-benar-inspiratif-csc",
+        "excerpt": "Kamu jangan mau kalah, oke?",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170912/2017-pbsi-penghargaanmarcuskevin24-8230f6955b0a397556cf02bcf4e7ccaf_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      }
+    ],
+    "trending": [
+      {
+        "title":
+          "Gaji Pramugari di Maskapai Ini Diukur Berdasarkan Tingkat Kelangsingan",
+        "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+        "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/maskapai-penerbangan-murah-1505358269-86940-5384d860a3cb2673f07f607bcd8327ea_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "10 Momen Kedekatan Raisa & Keponakan, Siap Jadi Ibu Nih?",
+        "slug": "kedekatan-raisa-dan-keponakan",
+        "excerpt": "Aura keibuannya sudah keluar lho",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/raisacover-40a00c64c04b126010bfbee11036199a_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "7 Orang Ini Pernah Alami Kegagalan dan Bangkit Jadi Sukses",
+        "slug": "lebih-dari-film-kisah-sukses-7-ini-benar-benar-inspiratif-csc",
+        "excerpt": "Kamu jangan mau kalah, oke?",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170912/2017-pbsi-penghargaanmarcuskevin24-8230f6955b0a397556cf02bcf4e7ccaf_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      }
+    ],
+    "categories": [
+      {
+        "name": "The Latest",
+        "slug": "news",
+        "category_url": "/news",
+        "posts": [
+          {
+            "title":
+              "Gaji Pramugari di Maskapai Ini Diukur Berdasarkan Tingkat Kelangsingan",
+            "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+            "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170914/maskapai-penerbangan-murah-1505358269-86940-5384d860a3cb2673f07f607bcd8327ea_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          },
+          {
+            "title": "10 Momen Kedekatan Raisa & Keponakan, Siap Jadi Ibu Nih?",
+            "slug": "kedekatan-raisa-dan-keponakan",
+            "excerpt": "Aura keibuannya sudah keluar lho",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170914/raisacover-40a00c64c04b126010bfbee11036199a_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          },
+          {
+            "title":
+              "7 Orang Ini Pernah Alami Kegagalan dan Bangkit Jadi Sukses",
+            "slug":
+              "lebih-dari-film-kisah-sukses-7-ini-benar-benar-inspiratif-csc",
+            "excerpt": "Kamu jangan mau kalah, oke?",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170912/2017-pbsi-penghargaanmarcuskevin24-8230f6955b0a397556cf02bcf4e7ccaf_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          },
+          {
+            "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+            "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+            "excerpt": "Mau asyik, malah terusik",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Science",
+        "slug": "science",
+        "category_url": "/science",
+        "posts": [
+          {
+            "title":
+              "Gaji Pramugari di Maskapai Ini Diukur Berdasarkan Tingkat Kelangsingan",
+            "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+            "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170914/maskapai-penerbangan-murah-1505358269-86940-5384d860a3cb2673f07f607bcd8327ea_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          },
+          {
+            "title": "10 Momen Kedekatan Raisa & Keponakan, Siap Jadi Ibu Nih?",
+            "slug": "kedekatan-raisa-dan-keponakan",
+            "excerpt": "Aura keibuannya sudah keluar lho",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170914/raisacover-40a00c64c04b126010bfbee11036199a_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          },
+          {
+            "title":
+              "7 Orang Ini Pernah Alami Kegagalan dan Bangkit Jadi Sukses",
+            "slug":
+              "lebih-dari-film-kisah-sukses-7-ini-benar-benar-inspiratif-csc",
+            "excerpt": "Kamu jangan mau kalah, oke?",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170912/2017-pbsi-penghargaanmarcuskevin24-8230f6955b0a397556cf02bcf4e7ccaf_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          },
+          {
+            "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+            "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+            "excerpt": "Mau asyik, malah terusik",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Automotive",
+        "slug": "automotive",
+        "category_url": "/science",
+        "posts": [
+          {
+            "title":
+              "Gaji Pramugari di Maskapai Ini Diukur Berdasarkan Tingkat Kelangsingan",
+            "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+            "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170914/maskapai-penerbangan-murah-1505358269-86940-5384d860a3cb2673f07f607bcd8327ea_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          },
+          {
+            "title": "10 Momen Kedekatan Raisa & Keponakan, Siap Jadi Ibu Nih?",
+            "slug": "kedekatan-raisa-dan-keponakan",
+            "excerpt": "Aura keibuannya sudah keluar lho",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170914/raisacover-40a00c64c04b126010bfbee11036199a_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          },
+          {
+            "title":
+              "7 Orang Ini Pernah Alami Kegagalan dan Bangkit Jadi Sukses",
+            "slug":
+              "lebih-dari-film-kisah-sukses-7-ini-benar-benar-inspiratif-csc",
+            "excerpt": "Kamu jangan mau kalah, oke?",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170912/2017-pbsi-penghargaanmarcuskevin24-8230f6955b0a397556cf02bcf4e7ccaf_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          },
+          {
+            "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+            "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+            "excerpt": "Mau asyik, malah terusik",
+            "release_date": 1507695369010,
+            "cover": {
+              "image_url":
+                "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+              "placeholder_image_url":
+                "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+              "width": 4608,
+              "height": 3072
+            },
+            "category": "news",
+            "subCategory": "indonesia",
+            "author": {
+              "name": "Rosa Folia",
+              "username": "rosafolia",
+              "avatar":
+                "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+            }
+          }
+        ]
+      }
+    ],
+    "announcements": [
+      {
+        "title":
+          "Sebelum 30 Tahun, Ini 7 Pilihan Investasi yang Bikin Kaya Raya!",
+        "slug": "terungkap-inilah-1",
+        "category": "hype",
+        "subcategory": "viral",
+        "author": "catur",
+        "url": "hype/viral/catur/terungkap-inilah-1"
+      },
+      {
+        "title": "Demi Profit, Facebook Terima Iklan Untuk \"Pembenci Yahudi\"",
+        "slug": "terungkap-inilah-2",
+        "category": "business",
+        "subcategory": "finance",
+        "author": "ade",
+        "url": "business/viral/ade/terungkap-inilah-2"
+      },
+      {
+        "title":
+          "Video Nicholas Saputra Tegur Pengendara Motor di Trotoar Bali Viral",
+        "slug": "nicholas-saputra-tegur-pengendara-motor",
+        "category": "hype",
+        "subcategory": "viral",
+        "author": "danti",
+        "url": "hype/viral/danti/nicholas-saputra-tegur-pengendara-motor"
+      }
+    ],
+    "categories_list": [
+      {
+        "name": "News",
+        "slug": "news",
+        "image": {
+          "mobile": "http://imajinair.org/dummy/mobile/news_mobile_view.jpg",
+          "desktop": "http://imajinair.org/dummy/desktop/news_mobile_view.jpg"
+        }
+      },
+      {
+        "name": "Men",
+        "slug": "men",
+        "image": {
+          "mobile": "http://imajinair.org/dummy/mobile/men_mobile_view.jpg",
+          "desktop": "http://imajinair.org/dummy/desktop/men_mobile_view.jpg"
+        }
+      },
+      {
+        "name": "Tech",
+        "slug": "tech",
+        "image": {
+          "mobile": "http://imajinair.org/dummy/mobile/tech_mobile_view.jpg",
+          "desktop": "http://imajinair.org/dummy/desktop/tech_mobile_view.jpg"
+        }
+      },
+      {
+        "name": "Hype",
+        "slug": "hype",
+        "image": {
+          "mobile": "http://imajinair.org/dummy/mobile/hype_mobile_view.jpg",
+          "desktop": "http://imajinair.org/dummy/desktop/hype_mobile_view.jpg"
+        }
+      },
+      {
+        "name": "Travel",
+        "slug": "travel",
+        "image": {
+          "mobile": "http://imajinair.org/dummy/mobile/travel_mobile_view.jpg",
+          "desktop": "http://imajinair.org/dummy/desktop/travel_mobile_view.jpg"
+        }
+      },
+      {
+        "name": "Opinion",
+        "slug": "opinion",
+        "image": {
+          "mobile": "http://imajinair.org/dummy/mobile/opinion_mobile_view.jpg",
+          "desktop":
+            "http://imajinair.org/dummy/desktop/opinion_mobile_view.jpg"
+        }
+      }
+    ]
+  },
+  "profile": {
+    "user": {
+      "name": "Yogie Prasetyo",
+      "description": "Kelahiran Jambi",
+      "avatar":
+        "content-images/avatar/mcdonalds_100x100.png?v=ec78efd0ca4406da08cb034ef810f218",
+      "cover_image":
+        "https://www.idntimes.com/themes/idntimes/v4/mobile/images/avatar/cover.jpg",
+      "join_year": "2014",
+      "social": {
+        "facebook": "yogie",
+        "twitter": "yogie"
+      },
+      "follower": 100,
+      "following": 10,
+      "poin": 900,
+      "rank": 1244,
+      "badge": [{}]
+    },
+    "articles": {
+      "title":
+        "Terungkap, Inilah Bayaran Fantastis Duel Floyd Mayweather dan McGregor",
+      "slug": "terungkap-inilah",
+      "category": "hype",
+      "subcategory": "viral",
+      "release_date": "1 September 2017",
+      "pageview": "120K",
+      "cover_image": {
+        "src": "http://lorempixel.com/200/133/",
+        "placeholder":
+          "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+        "width": 200,
+        "height": 133
+      }
+    }
+  },
+  "404": {
+    "trending": [
+      {
+        "title":
+          "Gaji Pramugari di Maskapai Ini Diukur Berdasarkan Tingkat Kelangsingan",
+        "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+        "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/maskapai-penerbangan-murah-1505358269-86940-5384d860a3cb2673f07f607bcd8327ea_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title":
+          "Gaji Pramugari di Maskapai Ini Diukur Berdasarkan Tingkat Kelangsingan",
+        "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+        "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/maskapai-penerbangan-murah-1505358269-86940-5384d860a3cb2673f07f607bcd8327ea_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "10 Momen Kedekatan Raisa & Keponakan, Siap Jadi Ibu Nih?",
+        "slug": "kedekatan-raisa-dan-keponakan",
+        "excerpt": "Aura keibuannya sudah keluar lho",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/raisacover-40a00c64c04b126010bfbee11036199a_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "7 Orang Ini Pernah Alami Kegagalan dan Bangkit Jadi Sukses",
+        "slug": "lebih-dari-film-kisah-sukses-7-ini-benar-benar-inspiratif-csc",
+        "excerpt": "Kamu jangan mau kalah, oke?",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170912/2017-pbsi-penghargaanmarcuskevin24-8230f6955b0a397556cf02bcf4e7ccaf_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      }
+    ],
+    "latest": [
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title":
+          "Gaji Pramugari di Maskapai Ini Diukur Berdasarkan Tingkat Kelangsingan",
+        "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+        "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/maskapai-penerbangan-murah-1505358269-86940-5384d860a3cb2673f07f607bcd8327ea_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title":
+          "Gaji Pramugari di Maskapai Ini Diukur Berdasarkan Tingkat Kelangsingan",
+        "slug": "maskapai-rusia-gaji-pramugari-berdasarkan-ukuran-baju-1",
+        "excerpt": "Dua pramugari menuntut maskapai itu ke pengadilan.",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/maskapai-penerbangan-murah-1505358269-86940-5384d860a3cb2673f07f607bcd8327ea_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "10 Momen Kedekatan Raisa & Keponakan, Siap Jadi Ibu Nih?",
+        "slug": "kedekatan-raisa-dan-keponakan",
+        "excerpt": "Aura keibuannya sudah keluar lho",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170914/raisacover-40a00c64c04b126010bfbee11036199a_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "7 Orang Ini Pernah Alami Kegagalan dan Bangkit Jadi Sukses",
+        "slug": "lebih-dari-film-kisah-sukses-7-ini-benar-benar-inspiratif-csc",
+        "excerpt": "Kamu jangan mau kalah, oke?",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170912/2017-pbsi-penghargaanmarcuskevin24-8230f6955b0a397556cf02bcf4e7ccaf_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      },
+      {
+        "title": "Ekspektasi VS Realita Saat Liburan yang Bikin Bete Berat",
+        "slug": "ekspektasi-vs-realita-saat-liburan-csc",
+        "excerpt": "Mau asyik, malah terusik",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20170913/tr6-53f5d150cc03cfa27934f2d6942508ec_850x350.jpg",
+          "placeholder_image_url":
+            "//res.cloudinary.com/dt2mntbmf/image/upload/c_scale,q_10,w_128/v1504760775/nathaniel-tetteh-297656_ic7uwb.jpg",
+          "width": 4608,
+          "height": 3072
+        },
+        "category": "news",
+        "subCategory": "indonesia",
+        "author": {
+          "name": "Rosa Folia",
+          "username": "rosafolia",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+        }
+      }
+    ]
+  },
+  "detail_article": {
+    "title": "Polemik Nikah Siri dan Dampaknya Bagi Perempuan Indonesia",
+    "excerpt":
+      "Jika menikah tujuannya untuk kebahagiaan, kenapa harus sembunyi-sembunyi?",
+    "flag": "regular",
+    "type": "editorial-article",
+    "published_at": 1505080800,
+    "description":
+      "<p>Semakin berkembangnya dunia internet, maka semakin banyak pula manusia yang mulai kecanduan media sosial. Mulai dari Facebook sampai Instagram. Alih-alih bisa seenaknya <em>nyampah </em>dengan postingan yang kamu suka, membuat status di media sosial juga ada aturannya. Jadi pengguna media sosial yang cerdas itu adalah keharusan.</p><p>Nah, kalau kamu gak ingin dibenci teman-temanmu di media sosial, pastikan kamu gak <em>posting </em>hal-hal di bawah ini ya!</p><h2>1. <em>Spam</em> banyak kegalauan dan omel-omelanmu dalam satu waktu yang bersamaan.</h2><div class=\"embed-image\"><img alt=\"a2ec3c06-ed53-47c2-81dc-7c9bde942c58-947dfac48a98c3e0b09db3799a8da59a.gif\" src=\"http://cdn.idntimes.com/content-images/post/20160430/a2ec3c06-ed53-47c2-81dc-7c9bde942c58-947dfac48a98c3e0b09db3799a8da59a.gif\" /><span class=\"main-article-source\"><a href=\"www.kizlarsoruyor.com\" target=\"_blank\">Sumber Gambar: kizlarsoruyor.com</a></span></div><p>Status memang menjadi satu sarana untuk mengungkapkan perasaan. Itu adalah hak. Namun bukan berarti kamu bisa sering membuat status omel-omelan dan sindiran sana-sini yang bisa memenuhi <em>timeline </em>seseorang. Siapa tahu orang bakal merasa risih karena terlalu banyak status yang <em>depressing. </em></p><p>Ingatlah bahwa media sosial adalah tempat bersama, jadi perhatikan kenyamanan orang juga ya. Kalau kamu ada masalah dengan orang lain, kamu bisa menghubungi secara langsung. Jadi kamu tidak harus <em>spamming </em>di media sosial.</p><h2><strong>2. <em>Share </em>gambar yang menjijikan dan gak enak untuk dipandang. </strong></h2><div class=\"embed-image\"><img alt=\"giphy-1-ecbecbba0afe04d81d7ccdc3256d9649.gif\" src=\"http://cdn.idntimes.com/content-images/post/20160430/giphy-1-ecbecbba0afe04d81d7ccdc3256d9649.gif\" /><span class=\"main-article-source\"><a href=\"giphy.com\" target=\"_blank\">Sumber Gambar: giphy.com</a></span></div><p>Gak semua orang suka dengan gambar-gambar yang kamu <em>share. </em>Biasanya media sosial memang tidak mem-<em>filter</em> gambar-gambar tertentu yang kadang tidak baik untuk dipandang, jadi kamu harus lebih selektif. Contohnya seperti bagian-bagian tubuh yang berlubang, atau hasil nyilet-nyilet yang gak cocok banget buat ditunjukkan di media sosial. Media sosial bukan hanya milik kamu saja.</p><h2><strong>3. Sengaja buat status yang berbau SARA untuk memancing emosi pada pembaca. </strong></h2><div class=\"embed-image\"><img alt=\"giphy-5-d908e83d32b75dd989dbf785c230c7c6.gif\" src=\"http://cdn.idntimes.com/content-images/post/20160430/giphy-5-d908e83d32b75dd989dbf785c230c7c6.gif\" /><span class=\"main-article-source\"><a href=\"giphy.com\" target=\"_blank\">Sumber Gambar: giphy.com</a></span></div><p>Sesuatu yang berbau SARA itu sangatlah sensitif. Jadi tidak perlu ditanya lagi kenapa kamu bisa dibenci dengan membuat status yang berbau SARA. Apalagi jika kamu berniat menghina satu golongan. Siap-siap saja dihujat para netizen.</p><p><em><a href=\"http://www.idntimes.com/fajarnurmanto/saatnya-sadar-diri-ini-9-tipe-karakter-yang-bikin-kamu-dijauhi-orang\" target=\"_blank\"><strong>Baca Juga: Saatnya Sadar Diri: Ini 9 Karakter yang Bikin Kamu Dijauhi Orang!</strong></a></em></p><h2><strong>4. Buat status yang terlalu memuja-muja satu figur politik tertentu.</strong></h2><div class=\"embed-image\"><img alt=\"week-in-review-emma-stone-gifs-ed-sheeran-ellabeereads-9df2450f4ab15f62e67c886e6986ee3d.gif\" src=\"http://cdn.idntimes.com/content-images/post/20160503/week-in-review-emma-stone-gifs-ed-sheeran-ellabeereads-9df2450f4ab15f62e67c886e6986ee3d.gif\" /><span class=\"main-article-source\"><a href=\"http://www.mamamia.com.au/why-women-should-live-alone/\" target=\"_blank\">Sumber gambar: mamamia.com.au</a></span></div><div class=\"embed-image\"><div class=\"embed-image\">&nbsp;</div></div><p>Memuja figur tertentu terlalu berlebihan memang hak setiap orang. Tapi kamu gak perlu gembor-gembor di media sosial. Apalagi kalau kamu sampai harus menghina-hina figur lainnya dan bahkan orang yang tidak setuju dengan kamu, bisa-bisa kamu di-<em>unfriend </em>banyak orang.</p><h2><strong>5. <em>Share </em>berita yang provokatif dengan sumber kurang jelas. </strong></h2><div class=\"embed-image\"><img alt=\"giphy-4-0b58a45cd4c97bfddb4ec85347289c62.gif\" src=\"http://cdn.idntimes.com/content-images/post/20160430/giphy-4-0b58a45cd4c97bfddb4ec85347289c62.gif\" /><span class=\"main-article-source\"><a href=\"giphy.com\" target=\"_blank\">Sumber Gambar: giphy.com</a></span></div><p>Terkadang di antara kita banyak yang masih bingung membedakan mana sumber yang benar atau salah karena keragaman sumber informasi yang makin banyak. Namun, sebelum kamu <em>share </em>suatu berita yang terkesan provokatif, coba dicek dulu darimana sumbernya, apakah meyakinkan atau tidak. Alangkah baiknya kamu lakukan <em>research </em>kecil-kecilan dulu terkait dengan berita itu.</p><h2><strong>6. Comment <em>thread </em>orang dengan marah-marah tapi belum baca dan mengerti sepenuhnya. Baru baca judulnya saja. </strong></h2><div class=\"embed-image\"><img alt=\"giphy-6-ec15369b8f505a61ad4b7ba7ccd32c47.gif\" src=\"http://cdn.idntimes.com/content-images/post/20160430/giphy-6-ec15369b8f505a61ad4b7ba7ccd32c47.gif\" /><span class=\"main-article-source\"><a href=\"giphy.com\" target=\"_blank\">Sumber Gambar: giphy.com</a></span></div><p>Saat ini banyak orang yang kadang males baca dan hanya membaca judulnya saja. Sebelum <em>comment, </em>kamu baca dulu dengan baik, setelah dibaca dan kamu masih ingin <em>comment, </em>coba pikir baik-baik dan rangkai kata yang sopan nan berisi. Hal ini jauh lebih menyenangkan.</p><h2><strong>7. Terlalu sering memamerkan hubunganmu dengan pacar. </strong></h2><div class=\"embed-image\"><img alt=\"sweet-prilly-latuconsina-buka-bukaan-te-5a9e93-cfdbd32041adc96dc7faeb7f3ff53985.jpg\" src=\"http://cdn.idntimes.com/content-images/post/20160502/sweet-prilly-latuconsina-buka-bukaan-te-5a9e93-cfdbd32041adc96dc7faeb7f3ff53985.jpg\" /><span class=\"main-article-source\"><a href=\"www.kapanlagi.com\" target=\"_blank\">Sumber Gambar: www.kapanlagi.com</a></span></div><p>Memang sih melihat orang yang pacaran di media sosial itu sudah jadi hal yang biasa dan harus ditoleransi, terutama buat para jomblo (sabar ya mblo). Namun, alangkah baiknya kalau kamu tidak terlalu sering mengumbar-umbar keromantisan.</p><p>Bukan karena bikin iri karena keromantisannya, terkadang karena terlalu memamerkan hubungan, secara tak sadar pas sedang bertengkar pun juga harus dipamerkan di media sosial. Hal ini kadang membuat orang risih.</p><h2><strong>8. Mengejek-ngejek orang yang fisiknya kurang baik. </strong></h2><div class=\"embed-image\"><img alt=\"wbpfylt-394064292affb983ddcec6b15f2f2c44.gif\" src=\"http://cdn.idntimes.com/content-images/post/20160503/wbpfylt-394064292affb983ddcec6b15f2f2c44.gif\" /><span class=\"main-article-source\"><a href=\"http://hellogiggles.com/yo-meh-yall-fake-words-cant-live-without/\" target=\"_blank\">Sumber gambar: hellogiggles.com</a></span></div><p>Walau semua orang tahu bahwa hal ini adalah perbuatan yang tidak baik, namun masih banyak loh yang melakukan hal itu, terutama kepada wanita yang tidak memakai <em>makeup, </em>atau orang yang sangat gendut. Kita harus mengetahui bahwa semua manusia sama di mata Tuhan, jadi jangan sampai fisik menjadi penilaian utamamu untuk mengejek orang ya, apalagi di media sosial.</p><h2><strong>9. Pamer kekayaan dan barang mewah yang kamu punya.</strong></h2><div class=\"embed-image\"><img alt=\"giphy-3ff08af3cab2dea72f5ce465e725bd4f.gif\" src=\"http://cdn.idntimes.com/content-images/post/20160503/giphy-3ff08af3cab2dea72f5ce465e725bd4f.gif\" /><span class=\"main-article-source\"><a href=\"http://giphy.com/gifs/m7FO0p9hTc59e\" target=\"_blank\">Sumber gambar: giphy.com</a></span></div><p>Selain menjadi ajang komunikasi, media sosial pun terkadang menjadi ajang orang-orang memamerkan kekayaan dan materi yang ia miliki. Mulai dari foto barang-barang mahal, foto makan malam yang sangat berkelas, atau gaya hidupmu yang terkesan mahal. Bila hal ini dilakukan terus menerus, kamu akan dicap sombong seantero Facebook. Jadi jangan terlalu sering ya!</p><p>Kamu ingin jadi pengguna media sosial yang cerdas? Pastikan kamu gak melakukan hal di atas ya!</p><p><strong><a href=\"http://www.idntimes.com/rizal/kebahagiaan-hidup-akan-bisa-diraih-dengan-menjauhi-facebook\" target=\"_blank\">Baca Juga: Ternyata Menjauhi Facebook Membuat Hidup Lebih Bahagia</a></strong></p>",
+    "author": {
+      "name": "Siantita Novaya",
+      "username": "tita",
+      "author_url": "https://idntimes.com/tita",
+      "avatar":
+        "https://cdn.idntimes.com/content-images/avatar/tita_100x100.jpg?v=c0864cfcc8e8609b35dc0166b423c94f",
+      "is_following": false
+    },
+    "category": {
+      "name": "Travel",
+      "category_url": "https://idntimes.com/travel"
+    },
+    "sub_category": {
+      "name": "Tips",
+      "category_url": "https://idntimes.com/tips"
+    },
+    "editorial": [
+      {
+        "name": "Yogie Fadila",
+        "username": "yogie-fadila",
+        "author_url": "https://idntimes.com/yogie-fadila",
+        "avatar":
+          "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+      },
+      {
+        "name": "Yogie Fadila",
+        "username": "yogie-fadila",
+        "author_url": "https://idntimes.com/yogie-fadila",
+        "avatar":
+          "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+      },
+      {
+        "name": "Yogie Fadila",
+        "username": "yogie-fadila",
+        "author_url": "https://idntimes.com/yogie-fadila",
+        "avatar":
+          "https://cdn.idntimes.com/content-images/avatar/rosa-folia_100x100.jpg?v=7a184706599edcccb268b050c91d4c9e"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Liburan",
+        "tag_url": "https://idntimes.com/tag/liburan"
+      },
+      {
+        "name": "Travel",
+        "tag_url": "https://idntimes.com/tag/travel"
+      }
+    ],
+    "latest_article": [
+      {
+        "title":
+          "5 Intrik Seru yang Bikin Kamu Ngebet Nonton Film Thor: Ragnarok!",
+        "slug": "5-intrik-seru-film-thor-ragnarok-1",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20171009/thor-3-avengers-edcd347551c705efd1e056a8d80a95cd_850x350.jpg",
+          "placeholder_image_url":
+            "https://cdn.idntimes.com/content-images/post/20171009/thor-3-avengers-edcd347551c705efd1e056a8d80a95cd_200x200.jpg",
+          "width": 850,
+          "height": 350
+        },
+        "author": {
+          "name": "Triadanti",
+          "username": "danti",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/danti_100x100.jpg?v=9bf7a9c021d386a6c5035e5bafaaf381"
+        },
+        "category": {
+          "name": "Hype",
+          "slug": "hype"
+        },
+        "sub_category": {
+          "name": "Entertainment",
+          "slug": "entertainment"
+        }
+      },
+      {
+        "title": "Langsung dari Ahlinya, Ini Tips Jadi YouTuber Gamer Keren!",
+        "slug":
+          "ushi-gaming-tepe46-bagi-tips-jadi-youtuber-gamer-di-ytff-surabaya",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20171009/img-0207-8568e9d7ba369ecf16d7a60961892ceb_850x350.JPG",
+          "placeholder_image_url":
+            "https://cdn.idntimes.com/content-images/post/20171009/img-0207-8568e9d7ba369ecf16d7a60961892ceb_200x200.JPG",
+          "width": 850,
+          "height": 350
+        },
+        "author": {
+          "name": "Triadanti",
+          "username": "danti",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/danti_100x100.jpg?v=9bf7a9c021d386a6c5035e5bafaaf381"
+        },
+        "category": {
+          "name": "Tech",
+          "slug": "tech"
+        },
+        "sub_category": {
+          "name": "Games",
+          "slug": "Games"
+        }
+      },
+      {
+        "title":
+          "16 Idol KPop yang Berulang Tahun di Bulan Oktober! Sudah Siapin Kado?",
+        "slug": "idola-kpop-ultah-oktober",
+        "release_date": 1507695369010,
+        "cover": {
+          "image_url":
+            "https://cdn.idntimes.com/content-images/post/20171006/21911362-128235271252897-50221708863130828gh8-n-3c44cdbb7a1e64fac0786fa719159eb7_850x350.jpg",
+          "placeholder_image_url":
+            "https://cdn.idntimes.com/content-images/post/20171006/21911362-128235271252897-50221708863130828gh8-n-3c44cdbb7a1e64fac0786fa719159eb7_200x200.jpg",
+          "width": 850,
+          "height": 350
+        },
+        "author": {
+          "name": "Triadanti",
+          "username": "danti",
+          "avatar":
+            "https://cdn.idntimes.com/content-images/avatar/danti_100x100.jpg?v=9bf7a9c021d386a6c5035e5bafaaf381"
+        },
+        "category": {
+          "name": "Tech",
+          "slug": "tech"
+        },
+        "sub_category": {
+          "name": "Games",
+          "slug": "Games"
+        }
+      }
+    ]
+  }
+}
